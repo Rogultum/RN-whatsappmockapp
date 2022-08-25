@@ -22,5 +22,7 @@ export default StyleSheet.create({
   },
   name_style: {
     fontWeight: "bold",
+    color: "black",
+    fontSize: 16,
   },
 });

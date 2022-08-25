@@ -12,6 +12,9 @@ function ChatList(props) {
           <Text>{props.user.message}</Text>
         </View>
       </View>
+      <View>
+        <Text>{props.user.date}</Text>
+      </View>
     </View>
   );
 }
