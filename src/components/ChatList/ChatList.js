@@ -1,3 +1,5 @@
+/* eslint-disable react/prop-types */
+/* eslint-disable react/destructuring-assignment */
 import React from "react";
 import { View, Text, Image, Pressable } from "react-native";
 import { useNavigation } from "@react-navigation/native";
@@ -7,8 +9,13 @@ function ChatList(props) {
   const navigation = useNavigation();
   return (
     <Pressable
+      delayLongPress={200}
       onLongPress={() => {
-        navigation.navigate("Chat");
+        navigation.navigate("Chat", {
+          message: props.user.message,
+          message2: props.user.message2,
+          name: props.user.name,
+        });
       }}
     >
       <View style={styles.container}>
