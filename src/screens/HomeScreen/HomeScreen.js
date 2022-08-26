@@ -1,11 +1,11 @@
 import React, { useState } from "react";
-import { FlatList, Pressable, View, Text } from "react-native";
+import { FlatList, View, Text } from "react-native";
 import Ionicon from "react-native-vector-icons/Ionicons";
 import styles from "./HomeScreen.style";
 import UserData from "../../components/data/UserData.json";
 import ChatList from "../../components/ChatList/ChatList";
 
-function HomeScreen({ navigation }) {
+function HomeScreen() {
   const [list] = useState(UserData);
 
   const renderChat = ({ item }) => <ChatList user={item} />;
