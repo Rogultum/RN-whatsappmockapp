@@ -25,15 +25,13 @@ function HomeScreen({ navigation }) {
         <Text style={styles.text_style}>CALLS</Text>
       </View>
 
-      <Pressable onPress={() => navigation.navigate("Chat")}>
-        <FlatList
-          style={styles.header}
-          data={list}
-          keyExtractor={(item) => item.id}
-          renderItem={renderChat}
-          ItemSeparatorComponent={renderSeperator}
-        />
-      </Pressable>
+      <FlatList
+        style={styles.header}
+        data={list}
+        keyExtractor={(item) => item.id}
+        renderItem={renderChat}
+        ItemSeparatorComponent={renderSeperator}
+      />
     </View>
   );
 }
