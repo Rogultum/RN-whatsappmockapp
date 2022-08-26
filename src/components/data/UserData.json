@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "name": "Lewis",
+    "image": "https://duckduckgo.com/i/72e673e9.jpg",
+    "message": "Hey man!",
+    "message2": "<3",
+    "lastSeen": "1h ago",
+    "date": "44:44",
+    "messages": [
+      {
+        "text": "Hey man",
+        "datetime": "17:42"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Valtteri",
+    "image": "https://duckduckgo.com/i/b6c57d0a.jpg",
+    "message": "I love coffee",
+    "message2": "That's all",
+    "lastSeen": "7h ago",
+    "date": "77:77",
+    "messages": [
+      {
+        "text": "I like coffee",
+        "datetime": "17:05"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Danny",
+    "image": "https://duckduckgo.com/i/47126c52.jpg",
+    "message": "Monza",
+    "message2": "again.",
+    "lastSeen": "3h ago",
+    "date": "03:03",
+    "messages": [
+      {
+        "text": "I like coffee",
+        "datetime": "17:05"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Billy",
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.mKa1Q8W8aW9Xlm-SnQncLQHaHa%26pid%3DApi&f=1",
+    "message": "****",
+    "message2": "******",
+    "lastSeen": "30 min ago",
+    "date": "17:05",
+    "messages": [
+      {
+        "text": "I like coffee",
+        "datetime": "17:05"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Five",
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg1.looper.com%2Fimg%2Fgallery%2Fwhy-fives-powers-in-the-umbrella-academy-are-more-terrifying-than-you-think%2Fintro-1615559734.jpg&f=1&nofb=1",
+    "message": "AGAIN ?!",
+    "message2": "One happy life",
+    "date": "05:05",
+    "messages": [
+      {
+        "text": "I like coffee",
+        "datetime": "17:05"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Synyster",
+    "image": "https://duckduckgo.com/i/ca8ff5f2.jpg",
+    "message": "Miss me?",
+    "message2": "soon",
+    "lastSeen": "Years ago",
+    "date": "13:15",
+    "messages": [
+      {
+        "text": "I like coffee",
+        "datetime": "17:05"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Black Cat",
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.rd.com%2Fwp-content%2Fuploads%2F2021%2F01%2FGettyImages-1253926491.jpg%3Fresize%3D2048&f=1&nofb=1",
+    "message": "Meow",
+    "message2": "Me...",
+    "lastSeen": "Unknown",
+    "date": "00:00",
+    "messages": [
+      {
+        "text": "I like coffee",
+        "datetime": "17:05"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Water",
+    "image": "https://www.sibconline.com.sb/wp-content/uploads/2015/04/Water.jpg",
+    "message": "Gulp",
+    "message2": "fuschh",
+    "lastSeen": "More than it should have been",
+    "date": "22:44",
+    "messages": [
+      {
+        "text": "I like coffee",
+        "datetime": "17:05"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Kelly",
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages2.minutemediacdn.com%2Fimage%2Fupload%2Fc_fill%2Cw_720%2Car_16%3A9%2Cf_auto%2Cq_auto%2Cg_auto%2Fshape%2Fcover%2Fentertainment%2FScreen-Shot-2019-12-17-at-124022-PM-5182f6de576537d9a9a68f3a6b80ead9.jpg&f=1&nofb=1",
+    "message": "U there?",
+    "message2": "???",
+    "lastSeen": "Now",
+    "date": "17:05",
+    "messages": [
+      {
+        "text": "I like coffee",
+        "datetime": "17:05"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "BOB",
+    "image": "https://duckduckgo.com/i/a721fa76.png",
+    "message": "Wanna chase bubbles?",
+    "message2": "better than chasing dreams",
+    "date": "17:05",
+    "messages": [
+      {
+        "text": "I like coffee",
+        "datetime": "17:05"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "WP",
+    "image": "https://duckduckgo.com/i/d07533ab.png",
+    "message": "Don't send that messageeee",
+    "message2": "it'll kill your chances",
+    "date": "17:05",
+    "messages": [
+      {
+        "text": "I like coffee",
+        "datetime": "17:05"
+      }
+    ]
+  }
+]
